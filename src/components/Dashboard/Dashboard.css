@@ -1,0 +1,23 @@
+.editBox {
+  /* background-color: #aad2ff; */
+  position: relative;
+  top: 4px;
+  left: 11px;
+  /* z-index: 30; */
+  height: 22px;
+  width: 73%;
+  border-radius: 10px;
+  transition: 0.9s;
+  outline: none;
+  margin: 20px;
+}
+.editBoxHidden {
+  /* display: none; */
+  background-color: rgba(245, 245, 245, 0);
+  position: fixed;
+  top: 22px;
+  left: 11px;
+  height: 22px;
+  width: 19%;
+  transition: 0.9s;
+}

@@ -1,0 +1,32 @@
+.headerNav {
+  height: 20%;
+  width: 100%;
+  background-color: #ab2a19;
+  color: white;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 20px;
+}
+
+.headerNav img {
+  margin-right: 30px;
+}
+
+.headerNav a {
+  font-size: 30px;
+  color: white;
+  border: 2px white solid;
+  border-radius: 7px;
+  margin: 5px 10px 0px 10px;
+  display: absolute;
+  top: 5px;
+}
+.headerNav a:visited {
+  font-size: 30px;
+  color: white;
+  border: 2px white solid;
+  border-radius: 7px;
+  margin: 5px 10px 0px 10px;
+  display: absolute;
+  top: 5px;
+}

@@ -1,0 +1,21 @@
+.product {
+  height: 10%;
+  width: 30%;
+  border: 1px black solid;
+  display: block;
+  position: relative;
+  left: 30%;
+  background-color: #ed6b5a;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+.productImage {
+  display: inline-block;
+  position: relative;
+  height: auto;
+  width: 41%;
+}
+.productText {
+  display: inline-block;
+  font-size: 15px;
+}
